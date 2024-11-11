@@ -1,0 +1,33 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+env/
+ENV/
+venv/
+VENV/
+
+# macOS specific files
+.DS_Store
+
+# Logs
+*.log
+
+# Home Assistant specific
+custom_components/*/__pycache__/
+custom_components/*/*.py[cod]
+custom_components/*/.pytest_cache/
+custom_components/*/.mypy_cache/
+*.db
+*.db-shm
+*.db-wal
+
+# Testing and build artifacts
+*.egg-info/
+*.egg
+dist/
+build/
+.cache/

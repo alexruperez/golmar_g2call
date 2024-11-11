@@ -1,0 +1,9 @@
+{
+  "name": "Golmar G2Call+",
+  "content_in_root": false,
+  "domains": ["golmar_g2call"],
+  "country": ["ES"],
+  "iot_class": "cloud_polling",
+  "render_readme": true,
+  "icon": "icon.png"
+}

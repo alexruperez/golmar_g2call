@@ -1,0 +1,13 @@
+{
+  "domain": "golmar_g2call",
+  "name": "Golmar G2Call+",
+  "version": "0.1.0",
+  "documentation": "https://github.com/alexruperez/golmar_g2call",
+  "issue_tracker": "https://github.com/alexruperez/golmar_g2call/issues",
+  "requirements": ["requests"],
+  "dependencies": [],
+  "config_flow": true,
+  "iot_class": "cloud_polling",
+  "codeowners": ["@alexruperez"],
+  "icon": "icon.png"
+}
